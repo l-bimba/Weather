@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.2.1)
+  - BottomPopup (0.6.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BottomPopup
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BottomPopup
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  BottomPopup: 1d5649a3b29396238f0e8f3c82075a7bfcf37ba7
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: f27b899b471d863feeddc750ff099ec3d9a2cadc
+
+COCOAPODS: 1.9.3
